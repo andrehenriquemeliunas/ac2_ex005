@@ -41,7 +41,7 @@ public class ex005 {
                 System.out.println("-------------------------");//Apenas questão de estética
             }
             
-        }while(cod != 0);//Encerra o laçõ de repetição
+        }while(cod != 0);//Encerra o laço de repetição
 
         s.close();//Fecha o scanner
     }
